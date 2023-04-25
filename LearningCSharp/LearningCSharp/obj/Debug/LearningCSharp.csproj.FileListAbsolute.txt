@@ -1,0 +1,8 @@
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe.config
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.pdb
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.csproj.AssemblyReference.cache
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.exe
+C:\Users\Ant_T\Documents\GitHub\LearningCSharp\LearningCSharp\LearningCSharp\obj\Debug\LearningCSharp.pdb
